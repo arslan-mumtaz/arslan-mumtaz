@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1 align="center">Hey there 👋, I'm Arslan Mumtaz</h1>
 <h3 align="center">I am a Full Stack <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> and a Blockchain Developer. @ Octaloop Tech</h3>
 
