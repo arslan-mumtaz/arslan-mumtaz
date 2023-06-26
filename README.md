@@ -1,5 +1,5 @@
 <h1 align="center">Hey there 👋, I'm Arslan Mumtaz</h1>
-<h3 align="center">I am a Full Stack <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> and a Blockchain Developer. @ Octaloop Tech</h3>
+<h3 align="center">I am a Full Stack <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> and a Blockchain Developer.</h3>
 
 <p align="left"> <a href="https://twitter.com/arslan-mumtaz" target="blank"><img src="https://img.shields.io/twitter/follow/akaarsal?logo=twitter&style=for-the-badge" alt="arslan-mumtaz" /></a> </p>
 <!--
