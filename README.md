@@ -12,7 +12,7 @@
 -->
 - 🌱 I’m currently learning **React Native,Node.js & Express **
 
-- 👨‍💻 You can find my portfolio at [arslanmumtaz.com](arslanmumtaz.com)
+- 👨‍💻 You can find my portfolio at  <a href="https:arslanmumtaz.com" target="blank">arslanmumtaz.com</a>
 
 - 📫 How to reach me **arslan.mumtaz04@gmail.com** 
 
