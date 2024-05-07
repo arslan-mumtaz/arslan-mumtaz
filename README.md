@@ -21,7 +21,7 @@
 
 - 🧑‍🎓 Graduate From IIUI.
 - 🤓 Currently exploring MERN Stack and learning Web3.0.
-- 🐈 Cat addict.
+- ⚽ Passion for Football.
 - 📚 Love reading histories, politics, and conspiracy.
 - ⚡️ Fun-Fact: I didn't smoke or drunk.
 
