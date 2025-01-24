@@ -3,11 +3,12 @@
 
 ## 🌐 Socials: 
 
+
+
+<!--
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/iamarsalmumtaz)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:arslan.mumtaz04@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://wa.me/923435306291)
-
-<!--
 [![Upwork](https://img.shields.io/badge/Upwork-white?logo=upwork)](https://www.upwork.com/freelancers/arslanm31)
 [![Fiverr](https://img.shields.io/badge/Fiverr-black?logo=fiverr)](https://www.fiverr.com/arslan_wp)
 <p align="left"> <a href="https://twitter.com/arslan-mumtaz" target="blank"><img src="https://img.shields.io/twitter/follow/akaarsal?logo=twitter&style=for-the-badge" alt="arslan-mumtaz" /></a>
