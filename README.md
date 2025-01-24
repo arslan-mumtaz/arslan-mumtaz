@@ -2,13 +2,14 @@
 <h3 align="center">I am a Full Stack <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> and a Blockchain Developer.</h3>
 
 ## 🌐 Socials: 
-[![Upwork](https://img.shields.io/badge/Upwork-white?logo=upwork)](https://www.upwork.com/freelancers/arslanm31)
-[![Fiverr](https://img.shields.io/badge/Fiverr-black?logo=fiverr)](https://www.fiverr.com/arslan_wp)
+
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/iamarsalmumtaz)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:arslan.mumtaz04@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://wa.me/923435306291)
 
 <!--
+[![Upwork](https://img.shields.io/badge/Upwork-white?logo=upwork)](https://www.upwork.com/freelancers/arslanm31)
+[![Fiverr](https://img.shields.io/badge/Fiverr-black?logo=fiverr)](https://www.fiverr.com/arslan_wp)
 <p align="left"> <a href="https://twitter.com/arslan-mumtaz" target="blank"><img src="https://img.shields.io/twitter/follow/akaarsal?logo=twitter&style=for-the-badge" alt="arslan-mumtaz" /></a>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jack-britton-aka-arsal-281139145//)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/arslan-mumtaz/)
